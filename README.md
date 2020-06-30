@@ -1,0 +1,2 @@
+# HousingHub
+The app helps users to find house for rent in a town , city, village by providing the details in StreetView.The streetView contains markers that represents the houses available for rent. The search bar helps users to look for houses based on the popular organisations. The users can search for home around VIT by just typing VIT in the searchbar.Each Home will have details and locations. The house owner can post advertisements for their home through this app
